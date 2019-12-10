@@ -18,4 +18,8 @@ AGRC’s data license and general data disclaimer.
 #### [SGID Database Policies]({% link about/policy/sgid/index.md %})
 {: .text-left}
 
-AGRC’s guidelines for creating, editing, maintaining, and removing data in the SGID database.
+AGRC’s policy for creating, editing, maintaining, and removing data in the SGID database.
+
+#### [Basic Metadata Guidelines]({% link about/policy/metadata/index.md %})
+
+AGRC’s guidelines for metadata for data in the SGID database.
